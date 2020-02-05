@@ -8,11 +8,11 @@ date: 2020-02-05
 
 # Working with Communities as Systems Workshop Overview
 
-## Table of Contents
+### Table of Contents
 
 [toc]
 
-## Timeline
+### Timeline
 
 |          Time | Activity                                                     |
 | ------------: | ------------------------------------------------------------ |
@@ -31,13 +31,13 @@ If time allows a third activity in which communities devise a pitch to try and c
 
 
 
-## Talk Summary
+### Talk Summary
 
 
 
-## Personal Community Prompt
+### Personal Community Prompt
 
 
 
-## Group Community Prompt
+### Group Community Prompt
 
