@@ -33,7 +33,30 @@ If time allows a third activity in which communities devise a pitch to try and c
 
 ### Talk Summary
 
-
+1. Introduction
+2. Housekeeping
+3. Who Am I
+4. Why I think systems thinking is super cool
+5. Why I wanted to look at Communities as Systems
+6. What do communities do for us
+7. Why do we gravitate towards communities
+8. The Framework I use
+9. Identity
+10. Ritual
+11. Hierachy
+12. Progression
+13. History
+14. Examples of Communities you may have been a part of
+15. Possible quick case study of the DesEthics group as a community
+16. Begin activity
+17. After task, ask for a few examples, discuss,
+18. Brief for group project
+19. after group project discuss how each group developed
+20. what were the pain points
+21. IF TIME brief discussion of community power and conflict
+22.  explain pitch talk, and the wonders of communities in identity politics yay
+23. Do activity
+24. groups give talk, discuss who  would 'win' for you
 
 ### Personal Community Prompt
 
